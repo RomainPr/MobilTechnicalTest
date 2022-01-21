@@ -5,7 +5,7 @@ Version 1 : simple static UI view [React Native]
 
 ## How to start the project
 
-First run `yarn install` or `npm install to install dependancies.
+First run `yarn install` or `npm install` to install dependancies.
 
 Then run Metro bundler with `npx react-native start`
 
